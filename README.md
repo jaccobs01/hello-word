@@ -1,2 +1,3 @@
 # hello-word
-firs repository
+first repository
+prvni zmena 
